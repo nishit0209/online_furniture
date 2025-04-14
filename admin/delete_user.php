@@ -19,4 +19,4 @@ if ($stmt->execute()) {
     header('Location: /pages/admin/users.php?error=Error+deleting+user');
 }
 exit();
-?> 
+?>

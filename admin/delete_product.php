@@ -21,4 +21,3 @@ if ($stmt->execute()) {
     header('Location: ../admin/products.php?error=Error+deleting+product');
 }
 exit();
-?> 
